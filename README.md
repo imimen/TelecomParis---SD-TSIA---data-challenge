@@ -1,6 +1,6 @@
 # TP---SD-TSIA-data-challenge
 
-This Work was done in pairs as part of TELECOM-PARIS's course SD-TSIA 211, consisting of a Machine Learning Data Challenge.
+This work was done in pairs as part of TELECOM-PARIS's course SD-TSIA 211, consisting of a Machine Learning Data Challenge.
 
 The assignment is about building a pair-of-images classifier to decide whether two images belong to the same person or not. 
 
