@@ -1,4 +1,4 @@
-# TP---SD-TSIA-data-challenge
+# TelecomParis---SD-TSIA-data-challenge
 
 This work was done in pairs as part of TELECOM-PARIS's course SD-TSIA 211, consisting of a Machine Learning Data Challenge.
 
